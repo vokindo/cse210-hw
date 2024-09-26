@@ -49,7 +49,7 @@ class Program
         }
 
         // Determine the sign if the grade is not "F" or "A"
-        if (letter != "F")
+        //if (letter != "F")
         {
             int lastDigit = gradePercentage % 10;
 
